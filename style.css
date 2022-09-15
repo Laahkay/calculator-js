@@ -13,7 +13,7 @@
     padding: 40px 30px;
 }
 .display h2,.display-results h2{
-    color: brown;
+    color: rgb(0, 0, 0);
     background-color: rgba(8, 255, 243, 0.705);
     height: 20px;
     padding: 20px;
@@ -31,9 +31,9 @@
 .btn {
     padding: 10px;
     height: 55px;
-    width: 55px;
+    width: 54px;
     font-size: medium;
-    color: rgb(191, 191, 191);
+    color: rgb(245, 245, 245);
     background-color: #000000;
     border: none;
     outline: none;
@@ -49,13 +49,13 @@
     right: 45%;
 }
 .btn:hover{
-    background-color: #3fc9f346;
+    background-color: #00eeff;
 }
 .btn-lg{
     width: 120px;
     background-color: #000000;
-    color: #f0f0f0;
+    color: #06fafab9;
 }
 .btn-lg:hover{
-    background-color: #b3b3b3;
+    background-color: #02a9db8f;
 }

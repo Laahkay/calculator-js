@@ -16,4 +16,4 @@ function del() {
 
 function calculate() {
     displayResults.innerText = eval(displayNum.innerText)
-}
+} 
